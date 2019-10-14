@@ -37,3 +37,7 @@ brew cask install the-unarchiver
 # browsers
 brew cask install firefox
 brew cask install google-chrome
+
+
+## cos we love vim
+git clone https://github.com/gmarik/Vundle.vim.git ~/.vim/bundle/Vundle.vim
